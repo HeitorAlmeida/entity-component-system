@@ -1,7 +1,6 @@
 # Entity Component System
 
-Author: Heitor Almeida
-May 25th 2020	
+Author: Heitor Almeida, May 25th 2020	
 	
 # Overview
 
